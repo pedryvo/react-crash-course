@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "text": "rent a car",
+      "day": "6 january",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "buy eggs",
+      "day": "7 january",
+      "reminder": false,
+      "id": 3
+    }
+  ]
+}
