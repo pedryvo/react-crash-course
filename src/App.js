@@ -12,7 +12,7 @@ const App = () => {
     },
     {
       id: 2,
-      text: 'ivo',
+      text: 'rocha',
       day: '6 january',
       reminder: false
     },
